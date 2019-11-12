@@ -1,0 +1,20 @@
+{
+  "name": "shallow-key",
+  "version": "1.0.0",
+  "description": "Generates a hash for each item of an array. Useful for generating deterministic React keys. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "React",
+    "key",
+    "random"
+  ],
+  "author": "javier.rocamora@gmail.com",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  },
+  "dependencies": {}
+}
