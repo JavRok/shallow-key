@@ -1,3 +1,5 @@
+[![1.0.1](http://img.shields.io/npm/v/REPO.svg?style=flat)](https://www.npmjs.com/package/shallow-key "View this project on npm")
+
 # Shallow key
 
 This package exists to have a proper way of giving 'random' keys to map a collection in React.
