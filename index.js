@@ -27,6 +27,7 @@ function getFingerprint(item, recursive = false) {
         case 'string':
             return item;
         case 'object': {
+            if (item === null) return 'null'; // Thanks JS
             if (recursive) return 'obj';
             let str = '';
             for (let [key, val] of Object.entries(item)) {
