@@ -1,6 +1,6 @@
 {
   "name": "shallow-key",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "Generates a hash for each item of an array. Useful for generating deterministic React keys. ",
   "main": "index.js",
   "browser": "index.js",
